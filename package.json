@@ -1,0 +1,13 @@
+{
+  "name": "graphileWorkerQueue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Barbosa de Lima <daniel.lima@ikatec.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "runJobs": "node index"
+  },
+  "dependencies": {
+    "graphile-worker": "^0.13.0"
+  }
+}
